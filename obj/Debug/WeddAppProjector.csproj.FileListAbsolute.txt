@@ -1,0 +1,22 @@
+c:\users\papo84\documents\visual studio 2012\Projects\WeddAppProjector\WeddAppProjector\bin\Debug\WeddAppProjector.exe.config
+c:\users\papo84\documents\visual studio 2012\Projects\WeddAppProjector\WeddAppProjector\obj\Debug\WeddAppEmailReader.PhotoForm.resources
+c:\users\papo84\documents\visual studio 2012\Projects\WeddAppProjector\WeddAppProjector\obj\Debug\WeddAppProjector.csproj.GenerateResource.Cache
+c:\users\papo84\documents\visual studio 2012\Projects\WeddAppProjector\WeddAppProjector\bin\Debug\WeddAppProjector.exe
+c:\users\papo84\documents\visual studio 2012\Projects\WeddAppProjector\WeddAppProjector\bin\Debug\WeddAppProjector.pdb
+c:\users\papo84\documents\visual studio 2012\Projects\WeddAppProjector\WeddAppProjector\bin\Debug\Google.GData.Client.dll
+c:\users\papo84\documents\visual studio 2012\Projects\WeddAppProjector\WeddAppProjector\bin\Debug\Google.GData.Photos.dll
+c:\users\papo84\documents\visual studio 2012\Projects\WeddAppProjector\WeddAppProjector\bin\Debug\Newtonsoft.Json.dll
+c:\users\papo84\documents\visual studio 2012\Projects\WeddAppProjector\WeddAppProjector\bin\Debug\Google.GData.Extensions.dll
+c:\users\papo84\documents\visual studio 2012\Projects\WeddAppProjector\WeddAppProjector\obj\Debug\WeddAppProjector.exe
+c:\users\papo84\documents\visual studio 2012\Projects\WeddAppProjector\WeddAppProjector\obj\Debug\WeddAppProjector.pdb
+c:\users\papo84\documents\visual studio 2012\Projects\WeddAppProjector\WeddAppProjector\obj\Debug\WeddAppProjector.csprojResolveAssemblyReference.cache
+C:\Users\Oded.bar-yehuda\Desktop\WeddApp\WeddAppProjector\WeddAppProjector\bin\Debug\WeddAppProjector.exe.config
+C:\Users\Oded.bar-yehuda\Desktop\WeddApp\WeddAppProjector\WeddAppProjector\obj\Debug\WeddAppProjector.exe
+C:\Users\Oded.bar-yehuda\Desktop\WeddApp\WeddAppProjector\WeddAppProjector\obj\Debug\WeddAppProjector.pdb
+C:\Users\Oded.bar-yehuda\Desktop\WeddApp\WeddAppProjector\WeddAppProjector\bin\Debug\WeddAppProjector.exe
+C:\Users\Oded.bar-yehuda\Desktop\WeddApp\WeddAppProjector\WeddAppProjector\bin\Debug\WeddAppProjector.pdb
+C:\Users\Oded.bar-yehuda\Desktop\WeddApp\WeddAppProjector\WeddAppProjector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oded.bar-yehuda\Desktop\WeddApp\WeddAppProjector\WeddAppProjector\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Oded.bar-yehuda\Desktop\WeddApp\WeddAppProjector\WeddAppProjector\obj\Debug\WeddAppProjector.csprojResolveAssemblyReference.cache
+C:\Users\Oded.bar-yehuda\Desktop\WeddApp\WeddAppProjector\WeddAppProjector\obj\Debug\WeddAppEmailReader.PhotoForm.resources
+C:\Users\Oded.bar-yehuda\Desktop\WeddApp\WeddAppProjector\WeddAppProjector\obj\Debug\WeddAppProjector.csproj.GenerateResource.Cache
